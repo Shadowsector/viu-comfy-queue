@@ -1,0 +1,22 @@
+{
+  "checkpoint": "sd_xl_base_1.0.safetensors",
+  "checkpoint_url": "https://huggingface.co/x",
+  "workflow": "t2i.json",
+  "loras": [
+    {
+      "name": "char1.safetensors",
+      "url": "https://civitai.com/x",
+      "weight": 0.7
+    }
+  ],
+  "references": [
+    {
+      "url": "https://example.com/ref1.jpg",
+      "type": "image"
+    }
+  ],
+  "prompt": "test prompt",
+  "negative": "ugly",
+  "width": 768,
+  "height": 768
+}
