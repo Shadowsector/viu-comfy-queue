@@ -8,5 +8,8 @@
   "height": 512,
   "seed": null,
   "priority": "normal",
-  "status": "pending"
+  "status": "processing",
+  "file_name": "task_1785526579.json",
+  "file_sha": "844e63ae8672213a31401bfa11e30d777345b76c",
+  "processing_start": "2026-07-31T19:36:44.344158"
 }
