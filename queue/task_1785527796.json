@@ -1,0 +1,30 @@
+{
+  "id": "task_1785527796",
+  "timestamp": "2026-07-31T19:56:36Z",
+  "prompt": "full-featured test",
+  "negative": "",
+  "mode": "image",
+  "width": 512,
+  "height": 512,
+  "seed": null,
+  "priority": "normal",
+  "status": "pending",
+  "checkpoint": "sd_xl_base_1.0.safetensors",
+  "checkpoint_url": "https://huggingface.co/x",
+  "workflow": "t2i.json",
+  "workflow_url": "",
+  "loras": [
+    {
+      "name": "char1.safetensors",
+      "url": "https://civitai.com/x",
+      "weight": 0.7
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "url": "https://example.com/ref1.jpg",
+      "type": "image"
+    }
+  ]
+}
