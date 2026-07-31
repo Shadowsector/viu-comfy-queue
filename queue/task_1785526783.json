@@ -1,0 +1,12 @@
+{
+  "id": "task_1785526783",
+  "timestamp": "2026-07-31T19:39:43Z",
+  "prompt": "test 2 from CLI tool",
+  "negative": "",
+  "mode": "image",
+  "width": 512,
+  "height": 512,
+  "seed": null,
+  "priority": "normal",
+  "status": "pending"
+}
