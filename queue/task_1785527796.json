@@ -8,7 +8,7 @@
   "height": 512,
   "seed": null,
   "priority": "normal",
-  "status": "pending",
+  "status": "processing",
   "checkpoint": "sd_xl_base_1.0.safetensors",
   "checkpoint_url": "https://huggingface.co/x",
   "workflow": "t2i.json",
@@ -26,5 +26,8 @@
       "url": "https://example.com/ref1.jpg",
       "type": "image"
     }
-  ]
+  ],
+  "file_name": "task_1785527796.json",
+  "file_sha": "e1339497dc2a78586d48b7e196b5489207609f16",
+  "processing_start": "2026-07-31T19:57:17.043956"
 }
