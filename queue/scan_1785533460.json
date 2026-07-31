@@ -2,5 +2,8 @@
   "id": "scan_1785533460",
   "type": "scan_request",
   "timestamp": "2026-07-31T21:31:00Z",
-  "status": "pending"
+  "status": "processing",
+  "file_name": "scan_1785533460.json",
+  "file_sha": "6ebb15356ce16e4d7f1868f88c6caa06a454c250",
+  "processing_start": "2026-07-31T21:31:59.715171"
 }
